@@ -3,7 +3,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=danueldev&show_icons=true&theme=chartreuse-dark)](https://github.com/danueldev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danueldev&layout=donut&theme=chartreuse-dark)](https://github.com/danueldev/github-readme-stats)
 
 ## Technologies I use most:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 <!--
 **DanuelDev/DanuelDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
