@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](https://github.com/DanuelDev)
+[![MasterHead](https://github.com/DanuelDev/DanuelDev/blob/main/bannergithub.png?raw=true)](https://github.com/DanuelDev)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=danueldev&show_icons=true&theme=chartreuse-dark)](https://github.com/danueldev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danueldev&layout=donut&theme=chartreuse-dark)](https://github.com/danueldev/github-readme-stats)
 
