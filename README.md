@@ -3,8 +3,11 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=danueldev&show_icons=true&theme=chartreuse-dark)](https://github.com/danueldev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danueldev&layout=donut&theme=chartreuse-dark)](https://github.com/danueldev/github-readme-stats)
 
 ## 🔧 Technologies I use most:
-
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+</div>
 
 ## 👽 Who am I?
 
