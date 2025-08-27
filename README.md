@@ -1,15 +1,16 @@
 [![MasterHead](https://github.com/DanuelDev/DanuelDev/blob/main/bannergithub.png?raw=true)](https://github.com/DanuelDev)
 
+<div align="center">
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=danueldev&show_icons=true&theme=chartreuse-dark)](https://github.com/danueldev/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danueldev&layout=donut&theme=chartreuse-dark)](https://github.com/danueldev/github-readme-stats)
 
 ## 🔧 Technologies I use most:
-<div align="center">
-  
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-</div>
-
 ## 🖖👽 Who I Am ✨
+
+</div>
 
 Hello, my name is Daniel Horvath. I'm Brazilian and studying Systems Analysis and Development. I'm a curious person who wants to learn and participate in the development of creative projects! I've been immersed in the world of technology and computing since I was 10 years old, and I never want to let go. I'm not afraid of technology and believe that science will liberate humanity.
 
@@ -17,7 +18,11 @@ Hello, my name is Daniel Horvath. I'm Brazilian and studying Systems Analysis an
 
 Olá, meu nome é Daniel Horvath. Sou brasileiro estudante de Análise e Desenvolvimento de Sistemas. Sou uma pessoa curiosa que deseja aprender e participar do desenvolvimento de projetos criativos! Eu estou imerso no mundo da tecnologia e da computação desde os meus 10 anos de idade, e jamais vou deixa-lo. Eu não tenho medo da tecnologia e acredito que a ciência libertará a humanidade.
 
+<div align="center">
+
 ## 🎯 My Skills and Projects 🏹
+
+</div>
 
 I'm actively developing my expertise in **Python** across various domains, from data analysis to backend development. My projects are my learning playground, where I focus on writing clean, effective code and following best practices.
 
@@ -25,7 +30,11 @@ I'm actively developing my expertise in **Python** across various domains, from 
 
 Estou ativamente desenvolvendo minhas habilidades em **Python** e seus diversos usos, de analise de dados até desenvolvimento backend. Meus projetos são meu parque de aprendizados, onde eu foco em escrever códigos limpos, eficazes e seguindo as melhores práticas.
 
+<div align="center">
+
 ## 🚀 My Future 🌎🌑
+
+</div>
 
 My curiosity drives me towards the cutting edge of technology. I'm building a strong foundation now to actively contribute to the fields of intelligent systems and automation in the future. Technologies I want to learn soon:
 
