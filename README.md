@@ -23,7 +23,7 @@ I'm actively developing my expertise in **Python** across various domains, from 
 
 ### Em português 🇧🇷
 
-Estou ativamente desenvolvendo minhas habilidades em **Python** e seus usos, de analise de dados até desenvolvimento backend. Meus projetos são meu parque de aprendizados, onde eu foco em escrer códigos limpos, eficazes e seguindo as melhores práticas.
+Estou ativamente desenvolvendo minhas habilidades em **Python** e seus diversos usos, de analise de dados até desenvolvimento backend. Meus projetos são meu parque de aprendizados, onde eu foco em escrever códigos limpos, eficazes e seguindo as melhores práticas.
 
 ## 🚀 My future
 
