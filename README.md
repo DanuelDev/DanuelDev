@@ -13,9 +13,17 @@
 
 Hello, my name is Daniel Horvath. I'm Brazilian and studying Systems Analysis and Development. I'm a curious person who wants to learn and participate in the development of creative projects! I've been immersed in the world of technology and computing since I was 10 years old, and I never want to let go. I'm not afraid of technology and believe that science will liberate humanity.
 
+### Em português 🇧🇷
+
+Olá, meu nome é Daniel Horvath. Sou brasileiro estudante de Análise e Desenvolvimento de Sistemas. Sou uma pessoa curiosa que deseja aprender e participar do desenvolvimento de projetos criativos! Eu estou imerso no mundo da tecnologia e da computação desde os meus 10 anos de idade, e jamais vou deixa-lo. Eu não tenho medo da tecnologia e acredito que a ciência libertará a humanidade.
+
 ## 🎯 My skills and projects
 
 I'm actively developing my expertise in **Python** across various domains, from data analysis to backend development. My projects are my learning playground, where I focus on writing clean, effective code and following best practices.
+
+### Em português 🇧🇷
+
+Estou ativamente desenvolvendo minhas habilidades em **Python** e seus usos, de analise de dados até desenvolvimento backend. Meus projetos são meu parque de aprendizados, onde eu foco em escrer códigos limpos, eficazes e seguindo as melhores práticas.
 
 ## 🚀 My future
 
@@ -25,6 +33,15 @@ My curiosity drives me towards the cutting edge of technology. I'm building a st
 *   **🦾 Robotics:** I want to move beyond pure code and make things happen in the physical world. I aim to learn about ROS (Robot Operating System), control systems, and how to program robots to perceive and interact with their environment.
 *   **☁️ MLOps & Cloud:** Turning a model into a real-world application is a challenge I want to master, using tools like Docker, Kubernetes, and cloud services.
 *   **📊 Advanced Data Science:** Going beyond the basics to master statistical learning and feature engineering to build more powerful and accurate models.
+
+### Em português 🇧🇷
+
+Minha curiosidade me leva até à vanguarda tecnológica. Estou construindo uma base sólida agora para contribuir ativamente nas áreas de sistemas inteligentes e automação no futuro. Tecnologias que quero aprender em breve:
+
+*   **🤖 Aprendizado de Máquina & IA:** Sou fascinado por como as máquinas podem aprender com dados. Meu objetivo é entender a matemática por trás dessa mágica e aprender a construir modelos que possam prever, classificar e criar.
+*   **🦾 Robótica:** Quero ir além do código puro e fazer as coisas acontecerem no mundo físico. Meu objetivo é aprender sobre ROS (Sistema Operacional de Robôs), sistemas de controle e como programar robôs para perceber e interagir com o ambiente.
+*   **☁️ MLOps & Cloud:** Transformar um modelo em uma aplicação do mundo real é um desafio que quero dominar, usando ferramentas como Docker, Kubernetes e serviços de nuvem.
+*   **📊 Ciência de Dados:** Indo além do básico para dominar o aprendizado estatístico e a engenharia de recursos para criar modelos mais poderosos e precisos.
 
 ## 📫 Connect with Me
 
